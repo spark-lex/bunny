@@ -1,6 +1,6 @@
 <div align="center">
 
-# bunny
+# :rabbit: bunny
 
 bunny is a tool that can **bundle** your project into single file.
 
